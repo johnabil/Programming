@@ -1,6 +1,3 @@
-<!--Me & Eyad-->
-<!-- da el .php haa -->
-
 <!--In this page, assume that the instructor on his courses page, and he clicks on "Make Quiz" button -->
 <!DOCTYPE html>
 <html lang="en">
@@ -24,7 +21,7 @@
 	<title>Make Quiz</title>
 	</head>
 	<body style="background-color: #e6f3ff;">
-		<div class="container makeQuiz_container" style="padding-top: 20px;">
+		<div class="container makeQuiz_container" style="padding-top: 20px; background-color: #fff; margin: 90px 70px; border-radius: 10px;padding-bottom: 50px;">
 		<br><br><br>
 			<p class="Num_p" style="font-size: 20px; display: inline; padding-right: 30px; margin-left: 80px; padding-top: : 15px;">Number of "MCQ" questions: </p>
 			<select id="mcqNum" style="width: 70px; height: 30px;">
